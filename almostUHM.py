@@ -27,9 +27,3 @@ def generatePrecidualHashFunction(seed):
         hashed = method(combined_string.encode()).hexdigest()
         return hashed
     return prodedualHashFunction
-
-seed = 1234
-string = "Hello World!"
-hash_method = generatePrecidualHashFunction(seed)
-hash = hash_method(string)
-print(hash)
