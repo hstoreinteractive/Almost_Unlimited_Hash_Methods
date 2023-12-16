@@ -31,8 +31,4 @@ function generatePrecidualHashFunction(seed) {
     return prodedualHashFunction;
 }
 
-var seed = 1234
-var string = "Hello World!"
-var hash_method = generatePrecidualHashFunction(seed)
-var hash = hash_method(string)
-console.log(hash)
+export { generatePrecidualHashFunction }
