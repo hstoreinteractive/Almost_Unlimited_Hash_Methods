@@ -12,12 +12,12 @@ __For all your Hashing requirements__
 > - ### Download the script for you're framework:
 > > ### Python
 > > ```bash
-> > wget https://raw.githubusercontent.com/hstoreinteractive/Almost_Unlimited_Hash_Methods/main/almostUHM.py -o almostUHM.py
+> > wget https://raw.githubusercontent.com/hstoreinteractive/Almost_Unlimited_Hash_Methods/main/almostUHM.py -O almostUHM.py
 > > ```
 > 
 > > ### JavaScript
 > > ```bash
-> > wget https://raw.githubusercontent.com/hstoreinteractive/Almost_Unlimited_Hash_Methods/main/almostUHM.js -o almostUHM.js
+> > wget https://raw.githubusercontent.com/hstoreinteractive/Almost_Unlimited_Hash_Methods/main/almostUHM.js -O almostUHM.js
 > > ```
 >
 > - ### Use in you're script:
