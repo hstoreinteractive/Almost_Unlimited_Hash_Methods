@@ -7,8 +7,6 @@ __For all your Hashing requirements__
 > Just in case sha224, sha256, sha384, sha512... aren't enough
 >
 > This Project provides 2,147,483,647 diffrent Hash Methods based on an id instead of a name
->
-> Much fun with this
 
 ## How do I Use it:
 > > - ## Download the script for you're framework:
